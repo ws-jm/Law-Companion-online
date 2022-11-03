@@ -1,0 +1,65 @@
+PODS:
+  - desktop_webview_window (0.0.1):
+    - FlutterMacOS
+  - flutter_udid (0.0.1):
+    - FlutterMacOS
+    - SAMKeychain
+  - FlutterMacOS (1.0.0)
+  - path_provider_macos (0.0.1):
+    - FlutterMacOS
+  - platform_device_id (0.0.1):
+    - FlutterMacOS
+  - platform_device_id_macos (0.0.1):
+    - FlutterMacOS
+  - SAMKeychain (1.5.3)
+  - share_plus_macos (0.0.1):
+    - FlutterMacOS
+  - url_launcher_macos (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - desktop_webview_window (from `Flutter/ephemeral/.symlinks/plugins/desktop_webview_window/macos`)
+  - flutter_udid (from `Flutter/ephemeral/.symlinks/plugins/flutter_udid/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_macos (from `Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos`)
+  - platform_device_id (from `Flutter/ephemeral/.symlinks/plugins/platform_device_id/macos`)
+  - platform_device_id_macos (from `Flutter/ephemeral/.symlinks/plugins/platform_device_id_macos/macos`)
+  - share_plus_macos (from `Flutter/ephemeral/.symlinks/plugins/share_plus_macos/macos`)
+  - url_launcher_macos (from `Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos`)
+
+SPEC REPOS:
+  trunk:
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  desktop_webview_window:
+    :path: Flutter/ephemeral/.symlinks/plugins/desktop_webview_window/macos
+  flutter_udid:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_udid/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos
+  platform_device_id:
+    :path: Flutter/ephemeral/.symlinks/plugins/platform_device_id/macos
+  platform_device_id_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/platform_device_id_macos/macos
+  share_plus_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/share_plus_macos/macos
+  url_launcher_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos
+
+SPEC CHECKSUMS:
+  desktop_webview_window: d4365e71bcd4e1aa0c14cf0377aa24db0c16a7e2
+  flutter_udid: 6b2b89780c3dfeecf0047bdf93f622d6416b1c07
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+  path_provider_macos: 3c0c3b4b0d4a76d2bf989a913c2de869c5641a19
+  platform_device_id: 3e414428f45df149bbbfb623e2c0ca27c545b763
+  platform_device_id_macos: f763bb55f088be804d61b96eb4710b8ab6598e94
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  share_plus_macos: 853ee48e7dce06b633998ca0735d482dd671ade4
+  url_launcher_macos: 597e05b8e514239626bcf4a850fcf9ef5c856ec3
+
+PODFILE CHECKSUM: 0d3963a09fc94f580682bd88480486da345dc3f0
+
+COCOAPODS: 1.11.3
